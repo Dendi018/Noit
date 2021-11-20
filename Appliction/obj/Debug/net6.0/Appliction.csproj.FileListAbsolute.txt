@@ -1,0 +1,17 @@
+D:\GitHub\Noit\Appliction\bin\Debug\net6.0\Appliction.deps.json
+D:\GitHub\Noit\Appliction\bin\Debug\net6.0\Appliction.dll
+D:\GitHub\Noit\Appliction\bin\Debug\net6.0\ref\Appliction.dll
+D:\GitHub\Noit\Appliction\bin\Debug\net6.0\Appliction.pdb
+D:\GitHub\Noit\Appliction\bin\Debug\net6.0\Domain.dll
+D:\GitHub\Noit\Appliction\bin\Debug\net6.0\Persistence.dll
+D:\GitHub\Noit\Appliction\bin\Debug\net6.0\Domain.pdb
+D:\GitHub\Noit\Appliction\bin\Debug\net6.0\Persistence.pdb
+D:\GitHub\Noit\Appliction\obj\Debug\net6.0\Appliction.csproj.AssemblyReference.cache
+D:\GitHub\Noit\Appliction\obj\Debug\net6.0\Appliction.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Noit\Appliction\obj\Debug\net6.0\Appliction.AssemblyInfoInputs.cache
+D:\GitHub\Noit\Appliction\obj\Debug\net6.0\Appliction.AssemblyInfo.cs
+D:\GitHub\Noit\Appliction\obj\Debug\net6.0\Appliction.csproj.CoreCompileInputs.cache
+D:\GitHub\Noit\Appliction\obj\Debug\net6.0\Appliction.csproj.CopyComplete
+D:\GitHub\Noit\Appliction\obj\Debug\net6.0\Appliction.dll
+D:\GitHub\Noit\Appliction\obj\Debug\net6.0\ref\Appliction.dll
+D:\GitHub\Noit\Appliction\obj\Debug\net6.0\Appliction.pdb

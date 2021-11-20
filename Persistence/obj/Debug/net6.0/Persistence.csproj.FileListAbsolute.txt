@@ -1,0 +1,15 @@
+D:\GitHub\Noit\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\GitHub\Noit\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\GitHub\Noit\Persistence\bin\Debug\net6.0\ref\Persistence.dll
+D:\GitHub\Noit\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\GitHub\Noit\Persistence\bin\Debug\net6.0\Domain.dll
+D:\GitHub\Noit\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\GitHub\Noit\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\GitHub\Noit\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Noit\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\GitHub\Noit\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\GitHub\Noit\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\GitHub\Noit\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\GitHub\Noit\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\GitHub\Noit\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+D:\GitHub\Noit\Persistence\obj\Debug\net6.0\Persistence.pdb
