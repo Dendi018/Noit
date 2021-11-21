@@ -64,3 +64,12 @@ D:\GitHub\Noit\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjec
 D:\GitHub\Noit\API\bin\Debug\net6.0\FluentValidation.dll
 D:\GitHub\Noit\API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 D:\GitHub\Noit\API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\GitHub\Noit\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GitHub\Noit\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\GitHub\Noit\API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GitHub\Noit\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitHub\Noit\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GitHub\Noit\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GitHub\Noit\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitHub\Noit\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitHub\Noit\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
