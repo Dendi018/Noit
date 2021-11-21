@@ -1,9 +1,4 @@
-﻿using Appliction.Core;
-using Domain;
-using MediatR;
-using Persistence;
-
-namespace Appliction.Events
+﻿namespace Appliction.Events
 {
     public class Details
     {

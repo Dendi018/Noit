@@ -1,7 +1,4 @@
-﻿using Domain;
-using FluentValidation;
-
-namespace Appliction.Events
+﻿namespace Appliction.Events
 {
     public class EventValidator : AbstractValidator<Event>
     {

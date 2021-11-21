@@ -1,9 +1,5 @@
-﻿using Appliction.Core;
-using AutoMapper;
-using Domain;
-using FluentValidation;
-using MediatR;
-using Persistence;
+﻿using AutoMapper;
+
 
 namespace Appliction.Events
 {

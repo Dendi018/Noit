@@ -1,8 +1,5 @@
-﻿using Appliction.Core;
-using Domain;
-using MediatR;
-using Microsoft.EntityFrameworkCore;
-using Persistence;
+﻿using Microsoft.EntityFrameworkCore;
+
 
 namespace Appliction.Events
 {
